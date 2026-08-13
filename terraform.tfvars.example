@@ -1,0 +1,2 @@
+web_bucket_name = "NAME_OF_YOUR_BUCKET_WHERE_YOU_WANT_TO_STORE_STATIC_WEBSITE_FILES"
+domain_name = "https://www.example_domain_name.com"
