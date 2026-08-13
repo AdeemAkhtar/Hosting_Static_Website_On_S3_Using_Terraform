@@ -135,7 +135,7 @@ Improvements include:
 
 ## Improved Architecture:
 
-![<# alt text #>](screenshots/architecture1.png "Screenshot")
+![<# alt text #>](screenshots/architecture2.png "Screenshot")
 
 
 ## Project Outcome:
